@@ -59,9 +59,7 @@ Copy
 Edit
 spotify_api_key = "your-api-key-from-auth-proxy"
 📁 Project Structure
-text
-Copy
-Edit
+
 terraform-spotify/
 ├── main.tf
 ├── playlist.tf
@@ -73,8 +71,6 @@ terraform-spotify/
 🛠 Usage
 Initialize and apply the configuration:
 
-bash
-Copy
-Edit
 terraform init
+terraform plan
 terraform apply
