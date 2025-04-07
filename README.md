@@ -16,7 +16,7 @@ This project allows you to create and manage Spotify playlists using Terraform. 
 
 - [Terraform](https://www.terraform.io/downloads)
 - [Docker](https://www.docker.com/)
-- A **Spotify Developer Account** with `CLIENT_ID` and `CLIENT_SECRET`
+- A Spotify Developer Account with `CLIENT_ID` and `CLIENT_SECRET`
 
 ---
 
