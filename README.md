@@ -25,7 +25,7 @@ This project allows you to create and manage Spotify playlists using Terraform. 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/terraform-spotify.git
+git clone https://github.com/bikalpa45/Spotify-playlist-creation-with-Terraform.git
 cd terraform-spotify
 2. Create a .env file
 This is used by the Spotify Auth Proxy:
